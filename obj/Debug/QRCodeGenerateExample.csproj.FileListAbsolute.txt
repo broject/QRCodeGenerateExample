@@ -1,0 +1,8 @@
+c:\users\boroo\documents\visual studio 2013\Projects\QRCodeGenerateExample\bin\Debug\QRCodeGenerateExample.exe
+c:\users\boroo\documents\visual studio 2013\Projects\QRCodeGenerateExample\bin\Debug\QRCodeGenerateExample.pdb
+c:\users\boroo\documents\visual studio 2013\Projects\QRCodeGenerateExample\obj\Debug\QRCodeGenerateExample.csprojResolveAssemblyReference.cache
+c:\users\boroo\documents\visual studio 2013\Projects\QRCodeGenerateExample\obj\Debug\QRCodeGenerateExample.Form1.resources
+c:\users\boroo\documents\visual studio 2013\Projects\QRCodeGenerateExample\obj\Debug\QRCodeGenerateExample.Properties.Resources.resources
+c:\users\boroo\documents\visual studio 2013\Projects\QRCodeGenerateExample\obj\Debug\QRCodeGenerateExample.csproj.GenerateResource.Cache
+c:\users\boroo\documents\visual studio 2013\Projects\QRCodeGenerateExample\obj\Debug\QRCodeGenerateExample.exe
+c:\users\boroo\documents\visual studio 2013\Projects\QRCodeGenerateExample\obj\Debug\QRCodeGenerateExample.pdb
